@@ -1,0 +1,3 @@
+<resources>
+    <string name="guard_desc">LifeLock uses this only to see which app is open, so it can block the apps you chose. It never reads your screen content.</string>
+</resources>
